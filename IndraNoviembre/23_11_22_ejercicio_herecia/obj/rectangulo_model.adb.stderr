@@ -1,0 +1,3 @@
+rectangulo_model.adb:8:31: error: no value supplied for component "Base"
+rectangulo_model.adb:8:31: error: no value supplied for component "Altura"
+rectangulo_model.adb:9:32: error: "Nombre" is not a component of type "C_Rectangulo" defined at rectangulo_model.ads:14
